@@ -36,8 +36,8 @@ Why
  * Query : Summarize
  
 How
- *Map- Shapes, Colors and Motion (Interactive Map)
- *Manipulate - We are doing change, navigate and select.
+ * Map- Shapes, Colors and Motion (Interactive Map)
+ * Manipulate - We are doing change, navigate and select.
  
 
 
