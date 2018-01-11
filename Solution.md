@@ -19,8 +19,8 @@ We have the below Assumptions:
   
 ## Solution
 
-We present an interactive tool (Tool.jpg) which shows the positions of vessels, their direction of travel, occupany, time of travel, destination, origin along with the status of the ports (berths). Here we represent ports as rectangles. The smaller red rectangles attached to the port rectangle shows the number of berths. If a berth is occupied by the ship, the id of the occupied ship would be written inside the rectangle. The course between the ports are marked by unique colors on the interactive screen.
-
+We present an interactive tool (shown bellow) which shows the positions of vessels, their direction of travel, occupany, time of travel, destination, origin along with the status of the ports (berths). Here we represent ports as rectangles. The smaller red rectangles attached to the port rectangle shows the number of berths. If a berth is occupied by the ship, the id of the occupied ship would be written inside the rectangle. The course between the ports are marked by unique colors on the interactive screen.
+![Image](https://github.com/InfoVizW2018/activity-2-medd/blob/master/visual.jpg)
 The ships are represented as Rectangles with a small triangle in front which indicates the direction of travel. The vessels are also marked by the vessel id. The rectangle shape of the vessel is further divided into 2 sub rectangles each for passenger occupany and vehicle occupancy. Occupancy is written with % occupied and using legends- Green for passengers and blue for vehicles. The legends are marked in the screen itself.
 
 Clicking on the ship would highlight its source and destination ports. The time of departure will be popped up and shown at the departure port and time of arrival at the arrival port. The machine learning model would also indicate the predicted occupancy considering the time and day of the week. This information could help me officers adjust schedules accordingly.
