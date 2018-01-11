@@ -62,7 +62,10 @@ How
 
 ## Pitfalls
 
-
+* PF-2 premature start: insufficient knowledge of vis literature.
+* PF-4 no real data available (yet).
+* PF-11 no rapport with collaborators.
+* PF-12 not identifying front line analyst and gatekeeper before start.
 
 
 
