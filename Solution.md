@@ -43,6 +43,27 @@ How
 
 ## Design Study Methods
 
+**Pre-Condition Phase**
+* Learn: Analyze all the avaiable Machine learning, Simulation and Visualization tools which are popular.
+* Minnow: Our colloborators would be schedule officers from SEASPAN, Simulation experts from industry and data would be from reservation and travel history database of SeaSpan, Time frame: Would be an year if data collection is required.
+* Cast: We developers are the front end analyst and SEASPAN officials would be gatekeepers.
+
+**Core Phase**
+
+* Discover: Anomolies in data due to season and climate changes.
+* Design: Design of the tools from various options such as tools, machine learning frameworks and statistical techniques.
+* Implement: Rapid Prototyping and MVP
+* Deploy: Show the working tool/ Prototype to the SEASPAN officials and get feedback
+
+**Analysis Phase**
+
+* Reflect: Can this tool be used for other bus/train/ship/ferry services across the world.
+* Write: Write a design study paper on our experience in designing schedule visualization tool for transport services
+
+## Pitfalls
+
+
+
 
 
 
