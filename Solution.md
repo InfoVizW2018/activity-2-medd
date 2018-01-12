@@ -25,7 +25,7 @@ The ships are represented as Rectangles with a small triangle in front which ind
 
 Clicking on the ship would highlight its source and destination ports. The time of departure will be popped up and shown at the departure port and time of arrival at the arrival port. The machine learning model would also indicate the predicted occupancy considering the time and day of the week. This information could help me officers adjust schedules accordingly.
 
-The time and day are adjusted using the sliders and calenders as required (At bottom of the map). We also provide and edit schedule as required. Once a schedule is added/changed, an automatic simulation would be done to study its feasiblity. This would take into account, the machine learning predictions. average route time, average availablity of the berths in the ports, passenger and vehicular occupancy etc. The system would highlight the bottle necks (Like ships anchored outside ports waiting for berths)
+The time and day are adjusted using the sliders and calenders as required (At bottom of the map). We also provide and edit schedule as required. Vessel schedule box shows the schedule of each vessel throughout the day and routes are shown in color. Once a schedule is added/changed, an automatic simulation would be done to study its feasiblity. This would take into account, the machine learning predictions. average route time, average availablity of the berths in the ports, passenger and vehicular occupancy etc. The system would highlight the bottle necks (Like ships anchored outside ports waiting for berths)
  
 ## What, How and Why ?
 
